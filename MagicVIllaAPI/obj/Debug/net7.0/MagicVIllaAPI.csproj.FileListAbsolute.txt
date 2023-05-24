@@ -78,3 +78,5 @@ C:\Users\Intel\Desktop\Portfolio Humilde\.NET\Web API .NET7\MagicVIlla\MagicVIll
 C:\Users\Intel\Desktop\Portfolio Humilde\.NET\Web API .NET7\MagicVIlla\MagicVIllaAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\Intel\Desktop\Portfolio Humilde\.NET\Web API .NET7\MagicVIlla\MagicVIllaAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Intel\Desktop\Portfolio Humilde\.NET\Web API .NET7\MagicVIlla\MagicVIllaAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Intel\Desktop\Portfolio Humilde\.NET\Web API .NET7\MagicVIlla\MagicVIllaAPI\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Intel\Desktop\Portfolio Humilde\.NET\Web API .NET7\MagicVIlla\MagicVIllaAPI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
