@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Intel\\Desktop\\Portfolio Humilde\\.NET\\Web API .NET7\\MagicVIlla\\MagicVIllaAPI\\MagicVIllaAPI.csproj": {}
+    "C:\\Users\\Intel\\Desktop\\Portfolio Humilde\\.NET\\Web API .NET7\\MagicVIlla\\MagicVIllaAPI\\MagicVillaAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Intel\\Desktop\\Portfolio Humilde\\.NET\\Web API .NET7\\MagicVIlla\\MagicVIllaAPI\\MagicVIllaAPI.csproj": {
+    "C:\\Users\\Intel\\Desktop\\Portfolio Humilde\\.NET\\Web API .NET7\\MagicVIlla\\MagicVIllaAPI\\MagicVillaAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Intel\\Desktop\\Portfolio Humilde\\.NET\\Web API .NET7\\MagicVIlla\\MagicVIllaAPI\\MagicVIllaAPI.csproj",
-        "projectName": "MagicVIllaAPI",
-        "projectPath": "C:\\Users\\Intel\\Desktop\\Portfolio Humilde\\.NET\\Web API .NET7\\MagicVIlla\\MagicVIllaAPI\\MagicVIllaAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Intel\\Desktop\\Portfolio Humilde\\.NET\\Web API .NET7\\MagicVIlla\\MagicVIllaAPI\\MagicVillaAPI.csproj",
+        "projectName": "MagicVillaAPI",
+        "projectPath": "C:\\Users\\Intel\\Desktop\\Portfolio Humilde\\.NET\\Web API .NET7\\MagicVIlla\\MagicVIllaAPI\\MagicVillaAPI.csproj",
         "packagesPath": "C:\\Users\\Intel\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Intel\\Desktop\\Portfolio Humilde\\.NET\\Web API .NET7\\MagicVIlla\\MagicVIllaAPI\\obj\\",
         "projectStyle": "PackageReference",

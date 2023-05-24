@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PKF5GkWLFsut8VwiheD1JpsH7PsrWolohlwLDKGm8O6aOH/xZKF3TCjDUOFeRsTXvZn+lgYijdjLYwU/oQ0HZQ==",
+  "dgSpecHash": "rbl9yGPRSDn6GAVkp5NDvKiuopDtpUaje6UV63ABLXPaV9L+3f9qemqzvVStBE5beW6AB6vVpU95zudJVnOTjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Intel\\Desktop\\Portfolio Humilde\\.NET\\Web API .NET7\\MagicVIlla\\MagicVIllaAPI\\MagicVIllaAPI.csproj",
+  "projectFilePath": "C:\\Users\\Intel\\Desktop\\Portfolio Humilde\\.NET\\Web API .NET7\\MagicVIlla\\MagicVIllaAPI\\MagicVillaAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Intel\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Intel\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
