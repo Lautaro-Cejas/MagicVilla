@@ -2,16 +2,14 @@
 using MagicVillaAPI.Modelos;
 using MagicVillaAPI.Modelos.Dto;
 using MagicVillaAPI.Repositorio.IRepositorio;
-using MagicVIllaAPI.Datos;
-using MagicVIllaAPI.Modelos;
-using MagicVIllaAPI.Modelos.Dto;
+using MagicVillaAPI.Datos;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Net;
 
-namespace MagicVIllaAPI.Controllers
+namespace MagicVillaAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
