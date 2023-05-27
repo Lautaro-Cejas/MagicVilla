@@ -1,4 +1,4 @@
-﻿using MagicVIllaAPI.Modelos;
+﻿using MagicVillaAPI.Modelos;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
