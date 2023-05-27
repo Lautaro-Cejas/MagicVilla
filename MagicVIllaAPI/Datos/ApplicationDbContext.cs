@@ -1,8 +1,8 @@
 ﻿using MagicVillaAPI.Modelos;
-using MagicVIllaAPI.Modelos;
+using MagicVillaAPI.Modelos;
 using Microsoft.EntityFrameworkCore;
 
-namespace MagicVIllaAPI.Datos
+namespace MagicVillaAPI.Datos
 {
     public class ApplicationDbContext:DbContext
     {
